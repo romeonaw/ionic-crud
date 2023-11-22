@@ -12,6 +12,5 @@ PRAKTIKUM PEMROGRAMAN MOBILE
 ![alt text](edit.png)<br>
 ### Setelah Edit
 ![alt text](https://github.com/romeonaw/ionic-crud/blob/main/setelah%20edit.png)<br>
-
 ### Setelah Hapus
 ![alt text](home.png) <br>
